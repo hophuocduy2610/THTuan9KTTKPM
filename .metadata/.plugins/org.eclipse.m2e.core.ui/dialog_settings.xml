@@ -48,7 +48,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="RedisPractice_18052461"/>
+			<item value="RedisPub"/>
+			<item value="RedisSub"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

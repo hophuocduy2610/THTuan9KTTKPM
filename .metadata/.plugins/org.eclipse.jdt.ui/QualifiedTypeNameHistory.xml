@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="redis.clients.jedis.JedisPubSub"/>
     <fullyQualifiedTypeName name="redis.clients.jedis.Jedis"/>
+    <fullyQualifiedTypeName name="redis.clients.jedis.JedisPool"/>
 </qualifiedTypeNameHistroy>
